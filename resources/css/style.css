@@ -1,0 +1,11 @@
+header {
+font-weight: normal;
+color: white;
+text-align: center;
+}
+h1 {
+    font-size: 50px;
+}
+body{
+    background-color: black;
+}
