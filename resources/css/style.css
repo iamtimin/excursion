@@ -31,6 +31,14 @@ a{
     color:gray;
     font-size: 22px;
 }
+
+.icon-text{
+     text-align: right;       /* center the text + icon */
+    
+    font-size: 22px;          /* size of the text */
+    color:gray; 
+}
+
 .image-container {
     text-align: center; /* Centers inline/inline-block elements */
 }
